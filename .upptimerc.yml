@@ -7,16 +7,24 @@ sites:
     url: https://www.deveji.com/
   - name: Deveji n8n
     url: $N8N_URL
+    icon: https://n8n.io/favicon.ico
   - name: Deveji Baserow
     url: $BASEROW_URL
+    icon: https://community.baserow.io/uploads/default/original/2X/8/8599d99ae11a42b5bf81aad38f0650173d3fd7a4.png
   - name: Deveji Kronos
+    check: "tcp-ping"
     url: $KRONOS_URL
+    port: $KRONOS_PORT
   - name: Deveji Portainer
     url: $PORTAINER_URL
+    icon: https://4731999.fs1.hubspotusercontent-na1.net/hubfs/4731999/crane-icon.svg
   - name: Google AppSheet
     url: https://www.appsheet.com/
   - name: Make
-    url: https://eu2.make.com/
+    check: "tcp-ping"
+    url: eu2.make.com
+    port: 80
+    icon: https://www.make.com/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
