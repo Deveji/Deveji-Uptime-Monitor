@@ -15,7 +15,7 @@ sites:
     check: "tcp-ping"
     url: $KRONOS_URL
     port: $KRONOS_PORT
-    icon: https://lh3.googleusercontent.com/pw/AP1GczPJNee5QZ6Abxm78MVCVlhXGkagyUPBNQRuf5h-D8NExg8KsBh8nTIJv3zAMAalDZguzWK-O26yG0acit72zilEcAGTCeG8_zEzBOT0mdwcQfpnGyrtdP7NRm0rPRQv6zWN1dQ06RFSR-lrxzWksPRf=w968-h968-s-no-gm
+    icon: https://lh3.googleusercontent.com/pw/AP1GczMqb86ejnDg7O5ptC3a5L2f2ERwn9ffZVdUSAKd_9bLPGUQCKc3llvqojJHP_qhfYcB4JngbE-YCQP9MaO7WYyn7pCyxvdTawvBnuqyTa5B56tApR8Hzyy3dSQPO0O9GMABuTeLGSTAM-YzLDLnAsxQ=w968-h968-s-no-gm
   - name: Deveji Portainer
     url: $PORTAINER_URL
     icon: https://4731999.fs1.hubspotusercontent-na1.net/hubfs/4731999/crane-icon.svg
@@ -34,7 +34,7 @@ status-website:
   # baseUrl: /your-repo-name
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://lh3.googleusercontent.com/pw/AP1GczOM4lAzhpv-D-EOlyvR2W3Zomxk_zkbJrdjIwigCE7oaLuUIBmC6dVcbTO9SN4cBQUzrCXnM-B64dRLN7ReK-gq9ft5Lvl7ghYGYPenB_AWkCouqG2U_g6O_pSApiZA6UeOU349D0YRWB29VJqHM3iM=w1920-h461-s-no-gm
-  # theme: dark
+  theme: night
   name: Uptime Monitor
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
