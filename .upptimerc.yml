@@ -21,11 +21,13 @@ sites:
     icon: https://4731999.fs1.hubspotusercontent-na1.net/hubfs/4731999/crane-icon.svg
   - name: Google AppSheet
     url: https://www.appsheet.com/
-  - name: Make
+  - name: Make EU2 Server
     check: "tcp-ping"
     url: eu2.make.com
     port: 80
     icon: https://www.make.com/favicon.ico
+  - name: Bottles Genieprinter
+    url: https://bottles.genieprinter.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -44,8 +46,8 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    # - title: GitHub
+    #   href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
