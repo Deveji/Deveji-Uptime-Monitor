@@ -22,10 +22,10 @@
     "url": "$N8N_URL",
     "icon": "https://n8n.io/favicon.ico",
     "slug": "deveji-n8n",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.93%",
     "time": 435,
@@ -34,7 +34,7 @@
     "timeMonth": 427,
     "timeYear": 435,
     "dailyMinutesDown": {
-      "2024-11-23": 9,
+      "2024-11-23": 11,
       "2024-10-09": 26,
       "2024-10-05": 18
     }
@@ -86,9 +86,9 @@
     "url": "$PORTAINER_URL",
     "icon": "https://4731999.fs1.hubspotusercontent-na1.net/hubfs/4731999/crane-icon.svg",
     "slug": "deveji-portainer",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -98,6 +98,7 @@
     "timeMonth": 243,
     "timeYear": 247,
     "dailyMinutesDown": {
+      "2024-11-23": 0,
       "2024-10-09": 25,
       "2024-10-05": 16
     }
