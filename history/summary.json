@@ -49,7 +49,7 @@
     "url": "$BASEROW_URL",
     "icon": "https://community.baserow.io/uploads/default/original/2X/8/8599d99ae11a42b5bf81aad38f0650173d3fd7a4.png",
     "slug": "deveji-baserow",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
     "uptimeDay": "98.67%",
     "uptimeWeek": "99.81%",
@@ -61,6 +61,7 @@
     "timeMonth": 1473,
     "timeYear": 1571,
     "dailyMinutesDown": {
+      "2025-03-18": 0,
       "2025-03-17": 19,
       "2025-03-09": 20,
       "2025-02-22": 7,
