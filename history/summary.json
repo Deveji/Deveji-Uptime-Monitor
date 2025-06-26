@@ -94,9 +94,9 @@
     "url": "$KRONOS_URL",
     "icon": "https://lh3.googleusercontent.com/pw/AP1GczMqb86ejnDg7O5ptC3a5L2f2ERwn9ffZVdUSAKd_9bLPGUQCKc3llvqojJHP_qhfYcB4JngbE-YCQP9MaO7WYyn7pCyxvdTawvBnuqyTa5B56tApR8Hzyy3dSQPO0O9GMABuTeLGSTAM-YzLDLnAsxQ=w968-h968-s-no-gm",
     "slug": "deveji-kronos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 127,
     "timeMonth": 118,
     "timeYear": 115,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-06-26": 0
+    }
   },
   {
     "name": "Deveji Portainer",
