@@ -11,11 +11,6 @@ sites:
   - name: Deveji Baserow
     url: $BASEROW_URL
     icon: https://community.baserow.io/uploads/default/original/2X/8/8599d99ae11a42b5bf81aad38f0650173d3fd7a4.png
-  - name: Deveji Kronos
-    check: "tcp-ping"
-    url: $KRONOS_URL
-    port: $KRONOS_PORT
-    icon: https://lh3.googleusercontent.com/pw/AP1GczMqb86ejnDg7O5ptC3a5L2f2ERwn9ffZVdUSAKd_9bLPGUQCKc3llvqojJHP_qhfYcB4JngbE-YCQP9MaO7WYyn7pCyxvdTawvBnuqyTa5B56tApR8Hzyy3dSQPO0O9GMABuTeLGSTAM-YzLDLnAsxQ=w968-h968-s-no-gm
   - name: Deveji Portainer
     url: $PORTAINER_URL
     icon: https://4731999.fs1.hubspotusercontent-na1.net/hubfs/4731999/crane-icon.svg
