@@ -14,13 +14,6 @@ sites:
   - name: Deveji Portainer
     url: $PORTAINER_URL
     icon: https://4731999.fs1.hubspotusercontent-na1.net/hubfs/4731999/crane-icon.svg
-  - name: Google AppSheet
-    url: https://www.appsheet.com/
-  - name: Make EU2 Server
-    check: "tcp-ping"
-    url: eu2.make.com
-    port: 80
-    icon: https://www.make.com/favicon.ico
   - name: Bottles Genieprinter
     url: https://bottles.genieprinter.com/
 
