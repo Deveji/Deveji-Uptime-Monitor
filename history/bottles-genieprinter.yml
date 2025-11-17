@@ -1,7 +1,7 @@
 url: https://bottles.genieprinter.com/
-status: down
-code: 503
-responseTime: 367
-lastUpdated: 2025-11-17T20:07:51.548Z
+status: up
+code: 200
+responseTime: 274
+lastUpdated: 2025-11-17T20:20:27.233Z
 startTime: 2024-10-01T07:08:47.188Z
 generator: Upptime <https://github.com/upptime/upptime>
