@@ -1,7 +1,7 @@
 url: $BASEROW_URL
-status: up
-code: 200
-responseTime: 1363
-lastUpdated: 2025-11-18T14:43:28.808Z
+status: down
+code: 500
+responseTime: 114
+lastUpdated: 2025-11-18T16:12:31.170Z
 startTime: 2024-09-29T11:58:51.111Z
 generator: Upptime <https://github.com/upptime/upptime>
