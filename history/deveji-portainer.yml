@@ -1,7 +1,7 @@
 url: $PORTAINER_URL
-status: down
-code: 530
-responseTime: 41
-lastUpdated: 2026-09-18T12:47:47.504Z
+status: up
+code: 200
+responseTime: 503
+lastUpdated: 2026-09-18T13:10:36.741Z
 startTime: 2024-09-29T11:58:55.618Z
 generator: Upptime <https://github.com/upptime/upptime>
