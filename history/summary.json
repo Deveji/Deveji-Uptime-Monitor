@@ -9,7 +9,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.78%",
+    "uptimeYear": "38.77%",
     "time": 672,
     "timeDay": 0,
     "timeWeek": 0,
@@ -18,7 +18,7 @@
     "dailyMinutesDown": {
       "2025-10-20": 6,
       "2026-01-09": 7,
-      "2026-09-22": 584,
+      "2026-09-22": 591,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
       "2026-09-19": 1440,
@@ -250,16 +250,16 @@
     "url": "$N8N_URL",
     "icon": "https://n8n.io/favicon.ico",
     "slug": "deveji-n8n",
-    "status": "down",
+    "status": "up",
     "uptime": "93.72%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "87.33%",
-    "uptimeMonth": "97.05%",
+    "uptimeDay": "99.50%",
+    "uptimeWeek": "87.26%",
+    "uptimeMonth": "97.03%",
     "uptimeYear": "88.29%",
     "time": 651,
-    "timeDay": 416,
-    "timeWeek": 455,
-    "timeMonth": 531,
+    "timeDay": 490,
+    "timeWeek": 463,
+    "timeMonth": 533,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2025-10-09": 45,
@@ -328,7 +328,7 @@
       "2026-09-18": 236,
       "2026-09-19": 548,
       "2026-09-20": 471,
-      "2026-09-22": 1
+      "2026-09-22": 7
     }
   },
   {
@@ -336,17 +336,17 @@
     "url": "$BASEROW_URL",
     "icon": "https://community.baserow.io/uploads/default/original/2X/8/8599d99ae11a42b5bf81aad38f0650173d3fd7a4.png",
     "slug": "deveji-baserow",
-    "status": "down",
+    "status": "up",
     "uptime": "95.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "87.38%",
-    "uptimeMonth": "97.06%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "87.31%",
+    "uptimeMonth": "97.05%",
     "uptimeYear": "90.67%",
     "time": 1140,
-    "timeDay": 1013,
-    "timeWeek": 1055,
-    "timeMonth": 1280,
-    "timeYear": 1090,
+    "timeDay": 1410,
+    "timeWeek": 1105,
+    "timeMonth": 1299,
+    "timeYear": 1093,
     "dailyMinutesDown": {
       "2025-10-17": 39,
       "2025-10-23": 61,
@@ -407,7 +407,7 @@
       "2026-09-18": 236,
       "2026-09-19": 548,
       "2026-09-20": 467,
-      "2026-09-22": 0
+      "2026-09-22": 7
     }
   },
   {
@@ -415,16 +415,16 @@
     "url": "$PORTAINER_URL",
     "icon": "https://4731999.fs1.hubspotusercontent-na1.net/hubfs/4731999/crane-icon.svg",
     "slug": "deveji-portainer",
-    "status": "down",
+    "status": "up",
     "uptime": "95.04%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "87.54%",
-    "uptimeMonth": "97.10%",
-    "uptimeYear": "90.72%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "87.48%",
+    "uptimeMonth": "97.08%",
+    "uptimeYear": "90.71%",
     "time": 494,
-    "timeDay": 367,
-    "timeWeek": 390,
-    "timeMonth": 473,
+    "timeDay": 447,
+    "timeWeek": 400,
+    "timeMonth": 476,
     "timeYear": 434,
     "dailyMinutesDown": {
       "2025-10-17": 38,
@@ -486,7 +486,7 @@
       "2026-09-18": 230,
       "2026-09-19": 540,
       "2026-09-20": 467,
-      "2026-09-22": 0
+      "2026-09-22": 7
     }
   },
   {
